@@ -16,3 +16,19 @@ int main(){
 
 
 
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+
+int main(){
+    int n;
+    cin>>n;
+    int k;
+    cin>>k;
+    for(int i = 0; i<n; i ++){
+    	cout<<k;
+	}
+}
+
+
